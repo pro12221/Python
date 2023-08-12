@@ -165,7 +165,8 @@ float 是浮点数类型，是我们下面会说到的。
 `or` 运算是或运算，只要其中有一个为 True，or 运算结果就是 True。
 
 `not` 运算是非运算，它是一个单目运算符，把 True 变成 False，False 变成 True。
-
+x = True and False
+print(x)
 
 
 ## 5、空值 ##
